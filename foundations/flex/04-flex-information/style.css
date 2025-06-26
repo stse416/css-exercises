@@ -12,6 +12,37 @@ img {
   font-weight: 900;
 }
 
+.info-box{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 32px;
+}
+
+.garden{
+  display: flex;
+  gap: 50px;
+}
+
+.plant-box{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  max-width: 200px;
+}
+
+.text{
+  text-align: center;
+}
+
+
+
+
+
+
+
+
 /* do not edit this footer */
 .footer {
   position: fixed;
